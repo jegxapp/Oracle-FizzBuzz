@@ -1,2 +1,2 @@
 # Oracle-FizzBuzz
-FizzBuzz test sovled in in Oracle SQL
+FizzBuzz test solved in Oracle SQL
