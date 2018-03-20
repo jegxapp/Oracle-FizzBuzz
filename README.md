@@ -1,2 +1,2 @@
 # Oracle-FizzBuzz
-FizzBuzz algorithm implementation in Oracle SQL
+FizzBuzz test sovled in in Oracle SQL
